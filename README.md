@@ -10,4 +10,4 @@ These are some Coding-Plans for 2022. If you want to help me accomplish them, do
 
 Discord: Ohnezahn ZAE#8135
 
-Currently, I plan to work with C, C++ **(Windows only if larger projects like a Discord bot or a video game comes into consideration!)**, Java, JavaScript (maybe also NodeJS, but it's not planned right now), HTML, CSS, Kotlin, SQL, Swift, Rust and Lua.
+Currently, I plan to work with C, C++ **(Windows only if larger projects like a Discord bot or a video game comes into consideration!)**, Java, JavaScript (maybe NodeJS too, but it's not planned as of now), HTML, CSS, Kotlin, SQL, Swift, Rust and Lua.
