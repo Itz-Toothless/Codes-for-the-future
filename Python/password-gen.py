@@ -7,6 +7,6 @@ number = int(input("Bitte gebe die L√§nge des Passworts an: "))  # Empfehlung f√
 for _ in range(number):
     pw = ''.join(random.choice(chars) for _ in range(number))
 print(f"Das Passwort '{pw}' wurde in die Datei 'passwords.txt' eingetragen")
-with open('passwords.txt' , 'a') as f:
+with open('passwords.txt' , 'a') as f:  #  Optional: Speichern des Passwortes in eine Datei
     f.write(pw)
     f.write("\n")
