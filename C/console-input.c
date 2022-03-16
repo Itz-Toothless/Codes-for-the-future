@@ -2,9 +2,9 @@
 int main() {
 
  int eingabe;
- printf("Bitte gebe einen Buchstaben ein: ");
+ printf("Character: ");
  eingabe = getchar();
  eingabe++;
- printf("Ausgabe: %c", eingabe);
+ printf("Output: %c", eingabe);
  return 0;
 }
