@@ -12,6 +12,15 @@ int main() {
  double h = sin(45);
  double i = cos(45);
  double j = tan(45);
- printf("%lf", j);
+ printf("Sqrt: %lf\n", r);
+ printf("Pow: %lf\n", s);
+ printf("Round: %d\n", c);
+ printf("Ceil: %d\n", d);
+ printf("Floor: %d\n", e);
+ printf("Fabs: %d\n", f);
+ printf("Log: %.2lf\n", g);
+ printf("Sin: %.2lf\n", h);
+ printf("Cos: %.2lf\n", i);
+ printf("Tan: %.2lf\n", j);
  return 0;
 }
