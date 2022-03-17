@@ -27,7 +27,6 @@ Logical Operator && (AND) checks if two conditions are true
    printf("The weather is bad!");
   }
 */
- // Logical Operator ! (NOT) reverses the state of an Condition
   bool sunny = false;
   if(!sunny){
    printf("It's cloudy outside");
